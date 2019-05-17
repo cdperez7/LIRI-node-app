@@ -1,0 +1,28 @@
+Song Information
+0
+song name: Lost In Translation
+preview song: null
+album: Confessions of a Dangerous Mind
+artist: Logic
+-------------------------------------
+Song Information
+1
+song name: Lost In Japan
+preview song: null
+album: Shawn Mendes
+artist: Shawn Mendes
+-------------------------------------
+Song Information
+0
+song name: Mr. Brightside
+preview song: null
+album: Hot Fuss
+artist: The Killers
+-------------------------------------
+Song Information
+1
+song name: Mr. Blue Sky
+preview song: https://p.scdn.co/mp3-preview/bb98f258a01d52c9b1c86ae82c67132bd52f29af?cid=4097811dc1ba4189a0603800fbd319fc
+album: Out of the Blue
+artist: Electric Light Orchestra
+-------------------------------------
