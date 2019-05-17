@@ -1,28 +1,112 @@
-Song Information
+**********Concert Information**********
 0
-song name: Lost In Translation
-preview song: null
-album: Confessions of a Dangerous Mind
-artist: Logic
--------------------------------------
-Song Information
+Band Name: twiddle
+Name of the venue: StrangeCreek Campout
+Venue location: Greenfield
+Date of the Event: 2019-05-26T19:00:56
+----------------------------------------
+**********Concert Information**********
 1
-song name: Lost In Japan
-preview song: null
-album: Shawn Mendes
-artist: Shawn Mendes
--------------------------------------
-Song Information
+Band Name: twiddle
+Name of the venue: Branch Fest
+Venue location: Newport
+Date of the Event: 2019-05-31T19:00:50
+----------------------------------------
+**********Concert Information**********
+2
+Band Name: twiddle
+Name of the venue: Bethel Woods Center For the Arts
+Venue location: Bethel
+Date of the Event: 2019-06-13T12:00:00
+----------------------------------------
+**********Concert Information**********
+3
+Band Name: twiddle
+Name of the venue: Garden Grove Music Festival
+Venue location: East Providence
+Date of the Event: 2019-06-15T19:00:31
+----------------------------------------
+**********Concert Information**********
+4
+Band Name: twiddle
+Name of the venue: Martin Luther King Jr Memorial Park at Manhattan Square
+Venue location: Rochester
+Date of the Event: 2019-06-27T17:00:00
+----------------------------------------
+**********Concert Information**********
+5
+Band Name: twiddle
+Name of the venue: Canalside
+Venue location: Buffalo
+Date of the Event: 2019-06-28T17:00:00
+----------------------------------------
+**********Concert Information**********
+6
+Band Name: twiddle
+Name of the venue: Electric Forest Festival
+Venue location: Rothbury
+Date of the Event: 2019-06-29T19:00:25
+----------------------------------------
+**********Concert Information**********
+7
+Band Name: twiddle
+Name of the venue: Camp Bisco
+Venue location: Pa
+Date of the Event: 2019-07-19T19:00:52
+----------------------------------------
+**********Concert Information**********
+8
+Band Name: twiddle
+Name of the venue: Tumble Down Festival
+Venue location: Burlington
+Date of the Event: 2019-07-26T15:00:17
+----------------------------------------
+**********Concert Information**********
+9
+Band Name: twiddle
+Name of the venue: Tumble Down Festival
+Venue location: Burlington
+Date of the Event: 2019-07-27T15:00:00
+----------------------------------------
+**********Concert Information**********
+10
+Band Name: twiddle
+Name of the venue: LOCKN' Festival
+Venue location: Arrington
+Date of the Event: 2019-08-24T19:00:14
+----------------------------------------
+**********Concert Information**********
+11
+Band Name: twiddle
+Name of the venue: Reggae Rise Up Utah
+Venue location: Heber City
+Date of the Event: 2019-08-25T19:00:12
+----------------------------------------
+**********Concert Information**********
 0
-song name: Mr. Brightside
-preview song: null
-album: Hot Fuss
-artist: The Killers
--------------------------------------
-Song Information
+Band Name: the
+Name of the venue: [ips]
+Venue location: Berlin-altglienicke
+Date of the Event: 2019-06-10T14:00:00
+----------------------------------------
+**********Concert Information**********
 1
-song name: Mr. Blue Sky
-preview song: https://p.scdn.co/mp3-preview/bb98f258a01d52c9b1c86ae82c67132bd52f29af?cid=4097811dc1ba4189a0603800fbd319fc
-album: Out of the Blue
-artist: Electric Light Orchestra
--------------------------------------
+Band Name: the
+Name of the venue: Tipitina's Uptown
+Venue location: New Orleans
+Date of the Event: 2019-07-05T22:00:00
+----------------------------------------
+**********Concert Information**********
+2
+Band Name: the
+Name of the venue: The Book Club
+Venue location: London
+Date of the Event: 2019-07-06T20:00:00
+----------------------------------------
+**********Concert Information**********
+3
+Band Name: the
+Name of the venue: The Cutting Room
+Venue location: New York
+Date of the Event: 2019-07-27T20:00:00
+----------------------------------------
