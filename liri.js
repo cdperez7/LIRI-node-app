@@ -95,3 +95,24 @@ function showConcertInfo(inputParameter) {
 
     });
 }
+
+function showMovieInfo(inputParameter){
+    if (inputParameter === undefined){
+        inputParameter = "Mr. Nobody";
+        console.log("----------------------------------------");
+        fs.appendFileSync("log.txt", "----------------------------------------\n");
+        console.log("If you haven't watched 'Mr. Nobody' then you should: http://www.imdb.com/title/tt0485947/")
+        fs.appendFileSync("log.txt", "If you haven't watched 'Mr. Nobody' then you should: http://www.imdb.com/title/tt0485947/" + "\n");
+        console.log("It's on Netflix!");
+        fs.appendFileSync("log.txt", "It's on Netflix!\n");
+    }
+
+    var queryUrl = "http://www.omdbapi.com/t=" + inputParameter + "&y=&plot=short&apikey=trilogy";
+    request(queryUrl, function(error, response, body){
+        if (!error && response.statusCode === 200){
+            var movies = JSON.parse(body);
+            
+        }
+    })
+    
+}
