@@ -23,11 +23,15 @@ Here are screenshot examples of each command:
 
 2) Movie
 
+![Movie](https://user-images.githubusercontent.com/46902558/57962156-a69c2c80-78d9-11e9-8fa3-8897490056b5.PNG)
 
 3) Concerts
 
+![Concert](https://user-images.githubusercontent.com/46902558/57962161-a9971d00-78d9-11e9-98b2-a796d03c9b5c.PNG)
 
 4) do-what-it-says
+
+![backstreet](https://user-images.githubusercontent.com/46902558/57962162-ab60e080-78d9-11e9-86b1-5f4b983f5de6.PNG)
 
 
 **Technologies used**
