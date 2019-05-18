@@ -29,16 +29,16 @@ Here are screenshot examples of each command:
 4) do-what-it-says
 
 
-**Technologies used:**
+**Technologies used**
 
-Javascript
-Nodejs
-Node packages:
+1) Javascript
+2) Nodejs
+3) Node packages:
     -Node-Spotify-API
     -DotEnv
     -Moment
     -Request
-APIs:
+4) APIs:
     -Bands in Town
     -OMDB
-Git        
+5) Git        
