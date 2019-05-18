@@ -18,7 +18,8 @@ This LIRI node app is a Language Interpretation and Recognition Interface. LIRI 
 Here are screenshot examples of each command:
 
 1) Spotify
-(images/Spotify.PNG)
+
+![Spotify](https://user-images.githubusercontent.com/46902558/57962142-8a988b00-78d9-11e9-91b2-402a70d0df52.PNG)
 
 2) Movie
 
