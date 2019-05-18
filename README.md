@@ -33,12 +33,6 @@ Here are screenshot examples of each command:
 
 1) Javascript
 2) Nodejs
-3) Node packages:
-    -Node-Spotify-API
-    -DotEnv
-    -Moment
-    -Request
-4) APIs:
-    -Bands in Town
-    -OMDB
+3) Node packages: Node-Spotify-API, DotEnv, Moment, Request
+4) APIs: Bands in Town and OMDB
 5) Git        
